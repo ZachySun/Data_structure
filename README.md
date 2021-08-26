@@ -1,5 +1,5 @@
 # Data_structure
-### 本项目主要根据NEU自动化大二计算机软件基础课，提供笔记、代码等 
+### 计算机软件基础课，提供笔记、代码等 
 4.12更新data_structure_007.cpp和[data_structure_04.md](https://github.com/ZachySun/Data_structure/blob/main/data_structure_04.md)，包括栈部分的笔记以及顺序栈和链式栈的一些代码  
 4.7更新-2data_structure_006.cpp,包括单链表的整表建立、整表删除、插入、寻找、删除，后续将会编写可输入、交互式的代码  
 4.7更新-1[data_structure_02.md](https://github.com/ZachySun/Data_structure/blob/main/data_structure_02.md)和data_structure_005.cpp,前者为线性表部分的笔记，后者为单链表的删除函数，后续将会继续更新链表的内容  
